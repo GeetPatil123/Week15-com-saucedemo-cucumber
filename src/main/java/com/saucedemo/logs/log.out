@@ -1,0 +1,10 @@
+2023-05-15 02:05:22 INFO  LoginPage :30 - Getting text from: [[ChromeDriver: chrome on WINDOWS (75ec214aca57c9e6bbc3fbbe12b9a740)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-15 02:05:47 INFO  LoginPage :35 - Finding total Number of Products6
+2023-05-15 02:05:251 INFO  LoginPage :30 - Getting text from: [[ChromeDriver: chrome on WINDOWS (e9242bb335cf0980b448e5fa842b1db8)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-15 02:05:281 INFO  LoginPage :35 - Finding total Number of Products6
+2023-05-15 02:05:968 INFO  LoginPage :30 - Getting text from: [[ChromeDriver: chrome on WINDOWS (5786061cbc83fd69d2b07774d21e8b34)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-15 02:05:995 INFO  LoginPage :35 - Finding total Number of Products6
+2023-05-15 02:05:139 INFO  LoginPage :30 - Getting text from: [[ChromeDriver: chrome on WINDOWS (b8516b9ed83b08f8f2e87d779f646e7f)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-15 11:05:599 INFO  LoginPage :30 - Getting text from: [[ChromeDriver: chrome on WINDOWS (bc00960b22342ee7c6aae91ba8aa0309)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-15 11:05:450 INFO  LoginPage :30 - Getting text from: [[ChromeDriver: chrome on WINDOWS (eb887a440d2dda8590e1c92175dd6aa5)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-15 11:05:492 INFO  LoginPage :35 - Finding total Number of Products6
